@@ -7,11 +7,11 @@ This project is created to fulfill the individual project requirement for Vander
 ## Note for Playing the Game
 The player is set to respawn in a valley where huge stone balls roll down once in a while. The balls cannot kill the player, but will faint the player for a while. The player has to experience the horror and pain every time the player wakes up, and the whole scenario repeats again.  
 
-![A Ball Rolling in the Mountainous Valley][Ball.png]
+![A Ball Rolling in the Mountainous Valley](Ball.png)
 
 Behind the player are two short lances. No matter what, the player will invariably be hit by the ball, but he or she can use those lances to fight and delay the fate.
 
-![Resisting the Ball][Lances.png] 
+![Resisting the Ball](Lances.png)
 
 ## Inspiration
 The project draws inspiration from legend of Prometheus, in which the immortal giant is chained to a rock and suffers from eagle attacks every day.  
